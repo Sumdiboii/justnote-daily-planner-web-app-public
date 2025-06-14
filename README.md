@@ -1,1 +1,1 @@
-# justnote-daily-planner-web-app-public in thw works!
+# justnote-daily-planner-web-app-public in the works!
